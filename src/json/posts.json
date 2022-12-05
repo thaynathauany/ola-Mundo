@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "titulo": "Organo",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/react-desenvolvendo-javascript> \n\n  ### Um pouco do projeto \n\n Esse site foi desenvolvido em [React](https://kenzie.com.br/blog/react/), React JS é uma biblioteca JavaScript para a criação de interfaces de usuário — ou UI (user interface). \n O React é uma biblioteca front-end e tem como um de seus objetivos facilitar a conexão entre diferentes partes de uma página, portanto seu funcionamento acontece através do que chamamos de componentes. \n\n O site tem como objetivo a organização dos times, onde pode-se atribuir as funções respectivas a cada usuário cadastrado. Esse foi o meu primeiro contato com a biblioteca e obtive novos conhecimentos como: \n\n - **Implementar componentes reativos** \n\n - **Investigar e analisar mensagens de erro** \n\n - **Modificar e evoluir componentes de acordo com a necessidade do projeto** \n\n - **Prototipar uma aplicação do zero até o deploy** \n\n [Teste o Organo aqui!](https://organo-lilac-theta.vercel.app/)  \n\n "
+    },
+    {
+        "id": 2,
+        "titulo": "Formulário de Pacientes",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/javascript-programando-na-linguagem-web> \n\n ### JavaScript \n\n \n\n JavaScript é uma linguagem de programação que originalmente foi desenvolvida para trazer maior interatividade aos **websites** através da manipulação do *DOM* (Document Object Model). Abaixo há uma definição do livro que é uma referência na temática, o **Eloquent JavaScript** \n\n \n\n > O JavaScript foi introduzido em 1995 como uma forma de adicionar dinamicidade à páginas da web no navegador Netscape Navigator. Desde então, a linguagem foi adotada por todos os outros principais navegadores gráficos da web. Ela tornou possíveis o desenvolvimento das aplicações modernas  da web - aplicações com os quais você pode interagir diretamente sem recarregar a página a cada ação. JavaScript também é usado em sites mais tradicionais para fornecer várias formas de interatividade de forma mais inteligente \n\n  \n\n >Fonte: [Tradução livre do livro Eloquent JavaScript](https://eloquentjavascript.net/00_intro.html) \n\n \n\n Portanto, de forma resumida, podemos entender que o **JavaScript** foi pensado para ser rápido, dinâmico e acessível. A *linguagem interpretada* possibilita subir ou trabalhar em suas aplicações sem precisar  configurar todo um ambiente complexo. \n\n \n\n Essas características motivaram o engenheiro de software Ryan Dahl a desenvolver um ambiente, como um programa que você instala no seu computador, que trabalha com a linguagem JavaScript fora do navegador e pelo lado do servidor, via terminal, de uma maneira menos restritiva \n\n ### Objetivo do site: \n\n  Desenvolver um Formulário de pacientes. Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Manipular elementos da página** \n\n - **Trabalhar com eventos do navegador** \n\n - **Utilizar e validar formulários** \n\n - **Desenvolver boas práticas de organização de código Javascript**\n\n - **Buscar dados em outro servidor com AJAX**\n\n [Teste o Formulário aqui!](https://formulario-pacientes.vercel.app/)"
+    },
+    {
+        "id": 3,
+        "titulo": "Alura Midi",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas> \n\n ### Objetivo do site: \n\n Desenvolvido em Javascript, tem como objetivo dinamizar a página de acordo com a interação do usuário. \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Identificar os papéis de cada tecnologia da Web para construção de págonas** \n\n - **Associar o JavaScript com HTML atráves do DOM** \n\n - **Implementar funções com JavaScript** \n\n - **Investigar possibilidades de resolução de problemas de código** \n\n - **Selecionar operadores lógicos adequados para diferentes soluções** \n\n - **Produzir soluções simples para páginas dinâmicas**\n\n[Teste o Alura Midi aqui!](https://alura-midi-three.vercel.app/) "
+    },
+    {
+        "id": 4,
+        "titulo": "Robotron 2000",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/javascript-manipulando-dom> \n\n  ## Objetivo do site: \n\n Interagir com a página manipulando o Dom \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Entender a interação do JavaScript com HTML e CSS** \n\n - **Tornar uma página dinâmica** \n\n - **Manipular dados, eventos e elementos com JavaScript** \n\n - **Explorar, criar e declarar funções JavaScript** \n\n - **Produzir soluções simples para páginas dinâmicas** \n\n [Teste o Robotron 2000 aqui!](https://robotron-2000-b8zo.vercel.app/)"
+    },
+    {
+        "id": 5,
+        "titulo": "Mochila de viagem",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador> \n\n  ## Objetivo do site: \n\n Armazenar dados no navegador \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Interajir com a páginas e com LocalStorage** \n\n - **Criar objetos no JavaScript** \n\n - **Registar dados no LocalStorage** \n\n - **Implementar páginas WRB que armazenam dados** \n\n - **Entender o comportamento do LocalStorage** \n\n [Teste a Mochila de Viagem aqui!](https://mochila-de-viagem-thayna.vercel.app/)"
+    }
+    
+]
