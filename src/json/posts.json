@@ -23,6 +23,11 @@
         "id": 5,
         "titulo": "Mochila de viagem",
         "texto": "> Fonte: <https://cursos.alura.com.br/course/javascript-web-armazenando-dados-navegador> \n\n  ## Objetivo do site: \n\n Armazenar dados no navegador \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Interajir com a páginas e com LocalStorage** \n\n - **Criar objetos no JavaScript** \n\n - **Registar dados no LocalStorage** \n\n - **Implementar páginas WRB que armazenam dados** \n\n - **Entender o comportamento do LocalStorage** \n\n [Teste a Mochila de Viagem aqui!](https://mochila-de-viagem-thayna.vercel.app/)"
-    }
+    },
     
+    {
+        "id": 6,
+        "titulo": "Alura Space",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/react-javascript-arquivos-estaticos> \n\n  ## Objetivo do site: \n\n Desenvolver uma galeria de imagens. \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Endender como organizar pastas e aquivos do projeto** \n\n - **Implementar componentes da interface do Usuário** \n\n - **Lidar com arquivos estáticos no React** \n\n [Teste o Alura Space aqui!](https://alura-space-rho.vercel.app/)"
+    }
 ]
