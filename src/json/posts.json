@@ -29,5 +29,17 @@
         "id": 6,
         "titulo": "Alura Space",
         "texto": "> Fonte: <https://cursos.alura.com.br/course/react-javascript-arquivos-estaticos> \n\n  ## Objetivo do site: \n\n Desenvolver uma galeria de imagens. \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Endender como organizar pastas e aquivos do projeto** \n\n - **Implementar componentes da interface do Usuário** \n\n - **Lidar com arquivos estáticos no React** \n\n [Teste o Alura Space aqui!](https://alura-space-rho.vercel.app/)"
+    },
+
+    {
+        "id": 7,
+        "titulo": "Organic Max",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/react-context-estados-globais-contextapi> \n\n ### React: gerenciamento de estados globais com ContextAPI \n\n \n\n A **Context API** é uma biblioteca que pode ser usada para autenticação, armazenamento de dados de formulários, configurações de temas ou outras funcionalidades que uma aplicação possa precisar. \n\n \n\n > O React  é uma funcionalidade implementada a pouco tempo no ecossistema do React, podendo resolver 90% das soluções do Redux de forma extremamente simples. \n\n  \n\n > Aqui, você pode aprender mais sobre: [Context API: como usar de forma simples e fácil](https://www.dtidigital.com.br/blog/context-api-como-usar-de-forma-simples-e-facil/) \n\n \n\n Esse foi um projeto bem desafiador, há bastante funcionalidades e te mostra como usar Hooks ao inves de Context. \n\n  \n\n > Aqui, você pode aprender mais sobre as  diferenças: [Context API: como usar de forma simples e fácil](https://medium.com/@devjpnobrega/primeiros-passos-com-react-hooks-usecontext-66c69ded5411/)\n\n ### Objetivo do site: \n\n  Gerenciar os estados globais com ContextAPI. \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Aprender a criar e gerenciar estados globais com ContextAPI** \n\n - **Entender como descacoplar componentes, deixando-os com a responsabilidade apenas de renderizar** \n\n - **Criar hooks economizados para poder utilizar de outros hooks React junto com o ContextAPI** \n\n - **Deixar o código mais limpo e performático utilizando boas práticas**\n\n - **Desenvolver o código com base no princípio da responsabilidade única, facilitando a manutenção**\n\n [Teste o Organic Max aqui!](https://organic-max.vercel.app/)"
+    },
+    {
+        "id": 8,
+        "titulo": "Styled Components",
+        "texto": "> Fonte: <https://cursos.alura.com.br/course/react-styled-components> \n\n  ## Objetivo do site: \n\n Aprender a escrever códigos CSS dentro do JavaScript \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Endender os problemas de conflitos de nomes de classes com CSS** \n\n - **Saber quando usar estilos globais** \n\n - **Utilizar herença dentro dos componentes** \n\n [Teste o Styled Components!](https://styled-components-self.vercel.app/)"
     }
+
 ]
