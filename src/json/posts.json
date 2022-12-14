@@ -40,6 +40,11 @@
         "id": 8,
         "titulo": "Styled Components",
         "texto": "> Fonte: <https://cursos.alura.com.br/course/react-styled-components> \n\n  ## Objetivo do site: \n\n Aprender a escrever códigos CSS dentro do JavaScript \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Endender os problemas de conflitos de nomes de classes com CSS** \n\n - **Saber quando usar estilos globais** \n\n - **Utilizar herença dentro dos componentes** \n\n [Teste o Styled Components!](https://styled-components-self.vercel.app/)"
+    },
+    {
+        "id": 9,
+        "titulo": "Jogo Número Secreto",
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-validacoes-reconhecimento-voz> \n\n  ## Objetivo do site: \n\n Desenvolver um jogo do zero utilizando reconhecimento de voz para acertar um número secreto \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Aplicar validações em projetos JavaScript** \n\n - **Utilizar funções build-in do JavaScript** \n\n - **Aplicar reconhecimentos de voz com JavaScript** \n\n [Teste o Jogo do Número Secreto!](https://jogo-numero-secreto-eight-smoky.vercel.app/)"
     }
 
 ]
