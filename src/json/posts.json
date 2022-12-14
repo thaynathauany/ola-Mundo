@@ -45,6 +45,11 @@
         "id": 9,
         "titulo": "Jogo Número Secreto",
         "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-validacoes-reconhecimento-voz> \n\n  ## Objetivo do site: \n\n Desenvolver um jogo do zero utilizando reconhecimento de voz para acertar um número secreto \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Aplicar validações em projetos JavaScript** \n\n - **Utilizar funções build-in do JavaScript** \n\n - **Aplicar reconhecimentos de voz com JavaScript** \n\n [Teste o Jogo do Número Secreto!](https://jogo-numero-secreto-eight-smoky.vercel.app/)"
+    },
+    {
+        "id": 10,
+        "titulo": "Formulário de Cadastro",
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api> \n\n  ## Objetivo do site: \n\n Aprender a aplicar assíncronicidade, através de um formulário de pacientes\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Entender como funciona o JavaScript assíncrono** \n\n - **Consumir a API do ViaCEP com o fetch APIt** \n\n - **Conhecer as Promises e seus métodos** \n\n- **Utilizar async await para criar funções assíncronas** \n\n- **Tratar possíveis erros de requisição retornados da API** \n\n- **Aprender a tornar uma página de formulário estática em dinâmica** \n\n [Teste o Formulário de Cadastro aqui!!](https://formulario-de-cadastro-lac.vercel.app/)"
     }
 
 ]
