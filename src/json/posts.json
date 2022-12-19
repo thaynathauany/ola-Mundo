@@ -49,7 +49,22 @@
     {
         "id": 10,
         "titulo": "Formulário de Cadastro",
-        "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api> \n\n  ## Objetivo do site: \n\n Aprender a aplicar assíncronicidade, através de um formulário de pacientes\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Entender como funciona o JavaScript assíncrono** \n\n - **Consumir a API do ViaCEP com o fetch APIt** \n\n - **Conhecer as Promises e seus métodos** \n\n- **Utilizar async await para criar funções assíncronas** \n\n- **Tratar possíveis erros de requisição retornados da API** \n\n- **Aprender a tornar uma página de formulário estática em dinâmica** \n\n [Teste o Formulário de Cadastro aqui!!](https://formulario-de-cadastro-lac.vercel.app/)"
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-consumindo-tratando-dados-api> \n\n  ## Objetivo do site: \n\n Aprender a aplicar assíncronicidade, através de um formulário de pacientes\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Entender como funciona o JavaScript assíncrono** \n\n - **Consumir a API do ViaCEP com o fetch API** \n\n - **Conhecer as Promises e seus métodos** \n\n- **Utilizar async await para criar funções assíncronas** \n\n- **Tratar possíveis erros de requisição retornados da API** \n\n- **Aprender a tornar uma página de formulário estática em dinâmica** \n\n [Teste o Formulário de Cadastro aqui!](https://formulario-de-cadastro-lac.vercel.app/)"
+    },
+    {
+        "id": 11,
+        "titulo": "Alura Books",
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-metodos-array> \n\n  ## Objetivo do site: \n\n Aprender utilizar os principais métodos de array do JavaScript \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Aplicar funções em elementos da lista com o ForEach** \n\n - **Manipular os valores criando uma nova lista com map de forma prática** \n\n - **Aplicar ordenação e filtros em JavaScript** \n\n- **Manipular o DOM com base nos métodos de array** \n\n \n\n [Teste o Alura Play!](https://alura-play-sandy.vercel.app/)"
+    },
+    {
+        "id": 12,
+        "titulo": "Alura Play",
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-criando-requisicoes> \n\n  ## Objetivo do site: \n\n Criar Requisições \n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Mockar uma API** \n\n - **Realizar requisições GET para retornar dados de uma API** \n\n - **Construir POST para cadastrar dados em uma API** \n\n- **Transformar uma página estática em dinâmica** \n\n- **Tratar possíveis erros de requisição retornados da API** \n\n\n\n [Teste o Formulário de Cadastro aqui!!](https://formulario-de-cadastro-lac.vercel.app/)"
+    },
+    {
+        "id": 13,
+        "titulo": "TtBank",
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-validando-formularios> \n\n  ## Objetivo do site: \n\n Validar dados através de um formulário de conta bancaria\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Aplicar atributos de validação de formulário com HTML5** \n\n - **Construir validações para os dígitos verificadores do CPF** \n\n - **Implementar validações de maioridade a partir da comparação de datas** \n\n- **Customizar mensagens de erro para cada tipo de campo do formulário** \n\n- **Integrar Webcam do usuário em uma tela do navegador** \n\n- **Capturar fotos via webcam** \n\n [Teste o Tt bank aqui!](https://tt-bank.vercel.app/)"
     }
 
 ]
