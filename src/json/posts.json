@@ -65,6 +65,10 @@
         "id": 13,
         "titulo": "TtBank",
         "texto": "> Fonte:<https://cursos.alura.com.br/course/javascript-validando-formularios> \n\n  ## Objetivo do site: \n\n Validar dados através de um formulário de conta bancaria\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Aplicar atributos de validação de formulário com HTML5** \n\n - **Construir validações para os dígitos verificadores do CPF** \n\n - **Implementar validações de maioridade a partir da comparação de datas** \n\n- **Customizar mensagens de erro para cada tipo de campo do formulário** \n\n- **Integrar Webcam do usuário em uma tela do navegador** \n\n- **Capturar fotos via webcam** \n\n [Teste o Tt bank aqui!](https://tt-bank.vercel.app/)"
+    },
+    {
+        "id": 14,
+        "titulo": "Organo",
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/react-componentes-funcionam> \n\n  ## Objetivo do site: \n\n O site tem como objetivo a organização dos times, onde pode-se atribuir as funções respectivas a cada usuário cadastrado e criar um novo time .\n\n  \n\n [Teste o Organo](https://organo2-eta.vercel.app/)"
     }
-
 ]
