@@ -69,6 +69,11 @@
     {
         "id": 14,
         "titulo": "Organo",
-        "texto": "> Fonte:<https://cursos.alura.com.br/course/react-componentes-funcionam> \n\n  ## Objetivo do site: \n\n O site tem como objetivo a organização dos times, onde pode-se atribuir as funções respectivas a cada usuário cadastrado e criar um novo time .\n\n  \n\n [Teste o Organo](https://organo2-eta.vercel.app/)"
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/react-componentes-funcionam> \n\n  ## Objetivo do site: \n\n O site tem como objetivo a organização dos times, onde pode-se atribuir as funções respectivas a cada usuário cadastrado e criar um novo time .\n\n  \n\n [Teste o Organo aqui!](https://organo2-eta.vercel.app/)"
+    },
+    {
+        "id": 15,
+        "titulo": "Cine Tag",
+        "texto": "> Fonte:<https://cursos.alura.com.br/course/react-praticando-react-js> \n\n  ## Objetivo do site: \n\n Construir componentes e páginas.\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Construir componentes e páginas** \n\n - **Implementar rotas normais, dinâmicas e aninhadas** \n\n - **Entender commo funcionam os contextos do React**\n\n [Teste o Cine Tag aqui!](https://cine-tag-azure.vercel.app/)"
     }
 ]
