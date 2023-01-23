@@ -75,5 +75,10 @@
         "id": 15,
         "titulo": "Cine Tag",
         "texto": "> Fonte:<https://cursos.alura.com.br/course/react-praticando-react-js> \n\n  ## Objetivo do site: \n\n Construir componentes e páginas.\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Construir componentes e páginas** \n\n - **Implementar rotas normais, dinâmicas e aninhadas** \n\n - **Entender commo funcionam os contextos do React**\n\n [Teste o Cine Tag aqui!](https://cine-tag-azure.vercel.app/)"
+    },
+    {
+        "id": 16,
+        "titulo": "Tt Flix",
+        "texto": "> Fonte:<https://www.udemy.com/course/curso-reactjs/> \n\n  ## Objetivo do site: \n\n Construir uma página utilizando uma API.\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como: \n\n - **Consumir uma api** \n\n - **Trabalhar com Hooks** \n\n - **Utilizar o toast**\n\n [Teste o Cine Tag aqui!](https://tt-flix.vercel.app/)"
     }
 ]
