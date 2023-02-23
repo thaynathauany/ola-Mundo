@@ -85,5 +85,10 @@
         "id": 17,
         "titulo": "IMC",
         "texto": "> Fonte:<https://alunos.b7web.com.br/curso/reactjs/react-imc-criando-o-projeto/> \n\n  ## Objetivo do site: \n\n Construir uma página para aperfeiçoar os conhecimentos do useState no React.\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como:  \n\n - **Trabalhar com Hooks** \n\n - **Estilizações com Flex no CSS**\n\n - **Utilizar tipagens em TypeScript**\n\n - **Estilizações Inline no JSX**\n\n [Calcule seu IMC aqui!](https://projeto-imc-zeta.vercel.app/)"
+    },
+    {
+        "id": 18,
+        "titulo": "Jogo da Memória",
+        "texto": "> Fonte:<https://alunos.b7web.com.br/curso/reactjs/memoria-introducao-ao-projeto> \n\n  ## Objetivo do site: \n\n Construir um jogo da memória.\n\n Com esse site, desenvolvi e aperfeiçoei alguns conhecimentos como:  \n\n - **Trabalhar com Hooks** \n\n - **Estilizações com Flex no CSS**\n\n - **Utilizar tipagens em TypeScript**\n\n - **Estilizações Inline no JSX**\n\n [Teste o jogo aqui!](https://jogo-da-memoria-xi.vercel.app/)"
     }
 ]
